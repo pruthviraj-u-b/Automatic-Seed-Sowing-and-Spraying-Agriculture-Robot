@@ -38,6 +38,4 @@ An autonomous Arduino-based robot designed to automate seed sowing and pesticide
 * **Fluid Subsystem:** 5V Sprinkler Submersible Pump, 2-Channel Relay Module
 * **Power Architecture:** 14.8V Li-ion Battery Pack, LM2596 DC-DC Buck Converter
 
----
 
-## 📁 Repository Structure
